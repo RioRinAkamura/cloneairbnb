@@ -1,0 +1,21 @@
+/* MObile & tablet */
+@media only screen and (max-width: 63.9375em) {
+    
+}
+
+/* mobile */
+@media only screen and (max-width: 46.1875em) {
+
+}
+
+/* tablet */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+    .header-nav{
+        padding: 20px 20px;
+
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1239px) {
+
+}
